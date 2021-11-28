@@ -8,16 +8,16 @@ h1{
 h5{
   margin-top:4rem;
   cursor:pointer;
-  font-size:3rem;
+  font-size:2rem;
 }
 p{
-  font-size:3rem;
+  font-size:2rem;
 }
 h5:hover{
   text-shadow: 1px 1px #000000;
 }
 .sc{
-  margin-top:4rem;
+  margin-top:3rem;
 }
 .c{
   padding-left: 0rem;
