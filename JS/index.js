@@ -282,7 +282,7 @@ function nextMove()
 $(".tl").click(function(){
   if(flag === false)
   {
-    location.href="/";
+    location.href="index.html";
   }
   else if($(".tl").text() === "" )
   {
@@ -294,7 +294,7 @@ $(".tl").click(function(){
 $(".tm").click(function(){
   if(flag === false)
   {
-    location.href="/";
+    location.href="index.html";
   }
   else if($(".tm").text() === "")
   {
@@ -306,7 +306,7 @@ $(".tm").click(function(){
 $(".tr").click(function(){
   if(flag === false)
   {
-    location.href="/";
+    location.href="index.html";
   }
   else if($(".tr").text() === "")
   {
@@ -318,7 +318,7 @@ $(".tr").click(function(){
 $(".ml").click(function(){
   if(flag === false)
   {
-    location.href="/";
+    location.href="index.html";
   }
   else if($(".ml").text() === "")
   {
@@ -330,7 +330,7 @@ $(".ml").click(function(){
 $(".mm").click(function(){
   if(flag === false)
   {
-    location.href="/";
+    location.href="index.html";
   }
   else if($(".mm").text() === "")
   {
@@ -342,7 +342,7 @@ $(".mm").click(function(){
 $(".mr").click(function(){
   if(flag === false)
   {
-    location.href="/";
+    location.href="index.html";
   }
   else if($(".mr").text() === "")
   {
@@ -354,7 +354,7 @@ $(".mr").click(function(){
 $(".bl").click(function(){
   if(flag === false)
   {
-    location.href="/";
+    location.href="index.html";
   }
   else if($(".bl").text() === "")
   {
@@ -366,7 +366,7 @@ $(".bl").click(function(){
 $(".bm").click(function(){
   if(flag === false)
   {
-    location.href="/";
+    location.href="index.html";
   }
   else if($(".bm").text() === "")
   {
@@ -378,7 +378,7 @@ $(".bm").click(function(){
 $(".br").click(function(){
   if(flag === false)
   {
-    location.href="/";
+    location.href="index.html";
   }
   else if($(".br").text() === "")
   {
@@ -388,5 +388,5 @@ $(".br").click(function(){
 });
 
 $("h5").click(function(){
-  location.href="/";
+  location.href="index.html";
 });
