@@ -1,0 +1,58 @@
+body{
+  font-family: 'Shadows Into Light', cursive;
+}
+h1{
+  font-size:5rem;
+  margin:1rem;
+}
+h5{
+  margin-top:2rem;
+  cursor:pointer;
+}
+h5:hover{
+  text-shadow: 1px 1px #000000;
+}
+.sc{
+  margin-top:2rem;
+}
+.c{
+  padding-left: 0rem;
+  padding-right: 0rem;
+  width:6.25rem;
+  height:6.25rem;
+  font-size:4rem;
+  font-family: 'Shadows Into Light', cursive;
+  border: 1px solid #000000;
+}
+.r{
+  width: 18.75rem;
+  margin:0rem auto;
+}
+.tl{
+  border-top: 1px solid #ffffff;
+  border-left: 1px solid #ffffff;
+}
+.tm{
+  border-top: 1px solid #ffffff;
+}
+.tr{
+  border-top: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
+}
+.ml{
+  border-left: 1px solid #ffffff;
+}
+.mr{
+  border-right: 1px solid #ffffff;
+}
+.bl{
+  border-left: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
+}
+.bm{
+  border-bottom: 1px solid #ffffff;
+}
+.br{
+  border-right: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
+}
