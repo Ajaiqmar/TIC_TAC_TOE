@@ -1,5 +1,6 @@
 <img src="IMG/banner.png" />
 
 <h2>🎮 TIC TAC TOE</h2>
-<h2> 🔥FLAMES </h2>
-Basically, The <a href="https://ajaiqmar.github.io/TIC_TAC_TOE/">TIC TAC TOE</a> Application calculates what type of Relationship exist between two different people using a specific algorithm. The <a href="https://ajaiqmar.github.io/TIC_TAC_TOE/">TIC TAC TOE</a> Application is one of my projects in the early days of my Software Development journey. It is a product of me acting upon one of the crazy ideas that pops up in my head 🤪. Even though there isn't much work to be done in the process of building this application, It really gave me an idea of how Software Development can be used to bring creative ideas into existence.
+Basically, The <a href="https://ajaiqmar.github.io/TIC_TAC_TOE/">TIC TAC TOE</a> Application is a Two - player game application where in this case the User will be playing against a Non - Playable Character. The Non - Playable Character makes its choice using a specific algorithm called the <a href="https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/">Minimax Algorithm</a>. The concept of Minimax Algorithm is basically to ensure that computer plays the best possible move during its turn. It uses a Recursion Tree and Backtracking to identify the best possible move. Try and win one game if possible!
+
+
